@@ -1,0 +1,4 @@
+D:\Kontur\Sokoban\Sokoban\Maps\1.txt Vova 00:00:02.1190633
+D:\Kontur\Sokoban\Sokoban\Maps\1.txt Petya 00:00:02.1691193
+D:\Kontur\Sokoban\Sokoban\Maps\1.txt Vitya 00:00:05.6878753
+D:\Kontur\Sokoban\Sokoban\Maps\1.txt Kostya 00:00:03.0135508
